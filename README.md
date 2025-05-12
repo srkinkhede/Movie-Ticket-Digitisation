@@ -48,7 +48,10 @@ The system addresses several user needs:
 - Complete payment  
 - Receive confirmation and access tickets
 
-# Prototypes
+## 🖼️ Prototypes
+
+Mockups of the user interface were created to simulate the full booking experience, from movie selection to seat layout and payment gateway.
+
 The document includes visual prototypes for:  
 - Home page and authentication screens  
 - Location selection interface  
