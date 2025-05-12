@@ -29,11 +29,15 @@ Customers reported that waiting in line for 10 minutes was a significant inconve
 
 # User Stories
 The system addresses several user needs:  
-- Account creation and authentication  
-- Movie, location, and showtime selection  
-- Seat selection and ticket category options  
-- Secure payment processing  
-- Receipt of confirmation and ability to print tickets  
+1. As a customer, I want to be able to **sign in/ sign up/ continue as guest**, so that I can **browse** the online movie ticket booking system.  
+2. As a customer, I want to be able to **select movie**, so that I can book ticket(s) for the same.  
+3. As a customer, I want to be able to **select location**, so that I can book ticket(s) for movies available at the selected location.  
+4. As a customer, I want to be able to **select time**, so that I can book ticket(s) for the selected movie.  
+5. As a customer, I want to view the available seats and arrangements, so that I can **select the preferred seat(s)**.  
+6. As a customer, I want to be able to **select ticket category**, so that I can view ticket charges.  
+7. As a customer, I want to be able to **make payment**, so that I can book ticket(s)  
+8. As a customer, I want to receive a **confirmation email/SMS**, so that I have a transaction record.  
+9. As a customer, I want to able to **view and print tickets** after purchase, so that I have a ticket in hand.  
 
 # Process Flow
 - Start at home page  
