@@ -60,3 +60,10 @@ The document includes visual prototypes for:
 - Ticket category and pricing display  
 - Payment processing screens  
 - Confirmation and ticket access
+
+
+## 📬 Contact
+
+For questions or feedback, please reach out via LinkedIn or GitHub.
+
+---
