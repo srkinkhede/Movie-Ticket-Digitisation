@@ -1,4 +1,7 @@
-# Movie-Ticket-Digitisation
+# Movie-Ticket-Digitisation  
+
+![Alt text](Movie_Ticket_Digitisation_HomePage.png)
+
 # Project Overview 
 The Movie Ticket Booking System is a digital solution designed to address the decline in ticket sales for a chain of 400 movie theaters. The primary issue identified was long waiting times at ticket booths, leading customers to opt for more convenient entertainment options. This system allows customers to purchase and print tickets online, eliminating the need to wait in line. 
 
